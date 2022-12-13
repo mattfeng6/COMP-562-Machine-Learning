@@ -4,7 +4,7 @@
 
 Constructed a predictive model with over 1.2 million samples, to help investors make informed decisions before selecting loans using Python, NumPy, and Pandas.
 
-Applied **Random Forest, Naïve Bayes, and K-Nearest Neighbors Algorithms** to train and evaluate the model to predict the default rate.
+Applied **_Random Forest, Naïve Bayes, and K-Nearest Neighbors Algorithms_** to train and evaluate the model to predict the default rate.
 
 Histogram and boxplot applied to help visualize the data.
 
