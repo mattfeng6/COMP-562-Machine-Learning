@@ -10,7 +10,7 @@ Histogram and boxplot applied to help visualize the data.
 
 Please find the relevant datasets in https://www.kaggle.com/datasets/wordsforthewise/lending-club
 
-## COPYRIGHT
+## Copyright
 
 This project is a COMP 562 Machine Learning Group Project from 
 
